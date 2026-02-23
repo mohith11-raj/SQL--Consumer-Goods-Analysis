@@ -43,9 +43,6 @@ Improved Sales Performance: Fiscal year 2020's low sales performance in March an
 Key Sales Channel - "Retailer": The "Retailer" channel emerges as the primary contributor, accounting for 73.22% of gross sales, thus serving as the key driver.
 
 
-Contents
-
-SQL Presentation -
 
 
 
